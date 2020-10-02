@@ -19,8 +19,8 @@ Run `python prepare_thing_sem_from_lvis.py`, to extract semantic labels from LVI
 - CTW1500 training, testing images, and annotations [[link]](https://universityofadelaide.box.com/shared/static/6ui89vca7cbp15ysnxqg5r494ix7l6cu.zip) [[paper]](https://www.sciencedirect.com/science/article/pii/S0031320319300664) [[code]](https://github.com/Yuliang-Liu/Curve-Text-Detector).
 - MLT [[dataset]](https://universityofadelaide.box.com/s/qu2wctdcsxh73bb94krdredpmx9nzf8m) [[paper]](https://ieeexplore.ieee.org/abstract/document/8270168).
 - Syntext-150k: 
-  - Part1: 94,723 [[dataset]](https://universityofadelaide.box.com/s/alta996w4fym6arh977h3k3xv55clhg3) 
-  - Part2: 54,327 [[dataset]](https://universityofadelaide.box.com/s/7k7d6nvf951s4i01szs4udpu2yv5dlqe)
+  - Part1: 94,723 [[dataset]](https://universityofadelaide.box.com/s/xyqgqx058jlxiymiorw8fsfmxzf1n03p) 
+  - Part2: 54,327 [[dataset]](https://universityofadelaide.box.com/s/e0owoic8xacralf4j5slpgu50xfjoirs)
 
 ```
 text/
